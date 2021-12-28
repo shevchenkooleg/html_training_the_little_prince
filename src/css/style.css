@@ -1,0 +1,38 @@
+body {
+    background-color: khaki;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 16px;
+}
+
+h2 {
+    color:red;
+    font-size: 16px;
+    text-align: center;
+}
+
+h3 {
+    color:black;
+    font-size: 12px;
+    font-weight: 200;
+    text-align: left;
+}
+
+.italic {
+    font-style: italic
+}
+
+.box {
+width: 300px;
+height: 300px;
+background-color: deeppink;
+padding: 20px;
+/* border-width: 3px;
+border-style: solid;
+border-color: black; */
+border: black 3px solid;
+margin: 20px;
+}
